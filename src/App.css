@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  margin-bottom:30px;
+}
+.whole{
+  display:flex;
+  flex-wrap:wrap;
+}
+.words{
+  padding:10px;
+  background-color:green;
+  border:3px solid white;
+  border-radius:10px;
+}
+.texts{
+  font-size:15px;
+  width:300px;
+  text-align:center;
+  border:none;
+  border-radius:10px;
+  background-color:black;
+  color:red;
+  height:30px;
+  margin-right:10px;
+}
+.check{
+  color:white;
+  background-color:green;
+  font-size:20px;
+  font-weight:bold;
+  height:50px;
+  width:250px;
+  border-radius: 10px;
+  border:none;
+  font-family:cursive;
+  margin-top:20px;
+}
+.btn{
+  margin-bottom:50px;
+ background-color:aqua;
+  font-size:20px;
+  font-weight:bold;
+  height:50px;
+  width:250px;
+  border-radius: 10px;
+  border:none;
+  font-family:cursive;
+  
+}
+.btn:hover{
+  color:red;
+  background-color:black;
+  font-style:italic;
+}
+.para{
+  font-size:20px;
+  font-family: cursive;
+  font-weight:bold;
+}
+.result{
+   background-color:aqua;
+   font-size:20px;
+   font-weight:bold;
+   height:50px;
+   width:400px;
+   border-radius: 10px;
+   border:none;
+   margin-right:50%;
+   font-family:cursive;
+   align-items:center;
+   margin-left:35%;
+}
